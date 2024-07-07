@@ -1,0 +1,444 @@
+Executive summary
+The Canada Revenue Agency (CRA) promotes and enhances its electronic services as a key component of its commitment to excellence in service delivery. Achieving this goal means keeping pace with the trends that are shaping our environment and transforming the tax administration to align with advancements in electronic services.
+The CRA has supplemented the traditional method of paper tax return filing with several paperless electronic options. This provides taxpayers with the ability to use third party software to prepare and file their own tax return using NETFILE or to have their tax return prepared and filed by a registered tax preparer using EFILE. The shift from paper to electronic tax return filing has required the CRA to anticipate, plan, and adjust to the changing nature of the way that Canadians choose to file their tax returns while ensuring that information is protected and used for the purpose for which it was intended.
+In June 2016, the Management Audit and Evaluation Committee of the CRA approved the evaluation framework for the Electronic Services – Individual Compliance Behaviour – Tax Return Evaluation Study. The Department of Finance Canada develops and evaluates federal tax policies and legislation, while the CRA is the agency responsible for the administration of tax laws, including the Income Tax Act (ITA) of Canada. As such, the scope of this evaluation was limited to CRA's administration of the provisions of the ITA.
+The central focus of this study was to provide CRA senior management with information on the growth and characteristics of T1 individual income tax returns (tax return); and the current state of CRA's tax administration in relation to the shift to electronic tax return filing.
+The CRA's administration of tax return filing and compliance validation activities spans multiple programs. The Assessment, Benefit, and Service Branch (ABSB) is responsible for receiving and processing both paper and electronic tax returns and issuing a Notice of Assessment (NoA) or Notice of Reassessment (NoR) to the taxpayer advising them of their tax situation. They are also responsible for the registration and monitoring of tax preparers, and providing service and support to tax preparers, software developers, and taxpayers. The Collections and Verification Branch (CVB) is responsible for the validation of information presented in the tax returns, both before and after a NoA or a NoR has been issued. Through the delivery of a national compliance validation program, CVB validates tax returns and benefit entitlements, and promotes compliance with Canada's tax laws for filing, declaring, withholding, registering, and remitting. These activities support CRA's compliance efforts to ensure that individuals meet their tax obligations in fairness to all Canadians.
+This evaluation study has confirmed a major shift from paper to electronic tax return filing occurred from 2005 to 2014 with individuals most frequently using registered tax preparers. The number of electronic tax returns processed has increased by 86% from 11.9 million in 2005 to 22.1 million in 2014. During this same period the number of individuals who filed using a registered tax preparer increased by 91% from 7.8 million in 2005 to 14.9 million in 2014. For compliance activities, there has been an increased emphasis on early compliance validation interventions since fiscal year 2005 to 2006 due to the business intelligence gathered in consideration of taxpayer behaviour. In fiscal year 2005 to 2006, $689 million in additional taxes were assessed in the Confidence Validity, Processing Review and T1 matching programs compared to $1.3 billion assessed in fiscal year 2014 to 2015. This represents a 100% increase in total dollars assessed.
+For the most part, no administrative constraints, within the CRA's control, were identified as having negatively impacted individuals from using the electronic tax return filing methods. The CRA has transformed its tax administration – organization, work processes and systems - to align with advancements in electronic tax return filing.
+It was also observed that individuals consulted as part of this study, both in headquarters and the regions, are professional; resilient; able to adapt to change; and most importantly demonstrate their commitment to excellence in service delivery.
+The 2014 tax return profile and compliance validation analysis are positive with no major constraints identified with the shift from paper to electronic tax return filling. However, to better understand how registered tax preparers impact CRA's tax administration and the individuals who pay for their service, an independent study could provide additional insight on the effectiveness of the EFILE tax return filing method. In addition, with the electronic systems working as intended an opportunity exists to promote electronic tax return filing for certain groups as well as to explore the transmission of data on certain tax forms and schedules to support compliance activities and interactions with Canadians. Employees are the cornerstone of CRA's administration and have strongly voiced the need to take stock of system maintenance upgrades in place as a part of the T1SR project. The goal is to mitigate unintended impacts on employees' health and wellness and to ensure a functional work environment that provides accurate and efficient service to Canadians.
+Management responses have been developed for the following three recommendations:
+ABSB, in consultation with CRA stakeholders, undertake a comprehensive analysis to identify ways to promote electronic tax return filing and increase take-up rate for those groups showing a slower transition from paper to electronic tax return filing.
+ABSB, in consultation with CRA stakeholders, explore and assess the feasibility to have data on certain tax forms and schedules transmitted to support compliance activities and interactions with Canadians.
+ABSB, in consultation with CRA stakeholders, take stock of system maintenance upgrades and address employee concerns with the T1SR project.
+Introduction
+In June 2016, the Management Audit and Evaluation Committee of the Canada Revenue Agency (CRA) approved the evaluation framework for the Electronic Services – Individual Compliance Behaviour – Tax Return Evaluation Study. This study was included in the Audit, Evaluation, and Risk Branch (AERB) 2015 to 2018 Risk-Based Audit and Evaluation Plan which was approved by the Board of Management on June 9, 2015.
+The Department of Finance Canada develops and evaluates federal tax policies and legislation, while the CRA is the agency responsible for the administration of tax laws, including the Income Tax Act (ITA) of Canada. As such the scope of this evaluation was limited to CRA's administration of the provisions of the ITA.
+The evaluation framework identified the following three evaluation issues:
+Issue 1: What is the profile and compliance behaviour of individual taxpayers who file paper and electronic tax returns?
+What is the growth and profile of tax return filers?
+What are the constraints, if any, which impact electronic filing?
+What are the impacts of electronic filing, if any, on compliance activities?
+Issue 2: To what extent has the CRA transformed its tax administration to align with advancements in electronic tax return filing for individuals?
+Have the organizational structures and work processes been aligned to support advancements in electronic filing?
+Have systems been aligned to support horizontal tax compliance efforts with advancements in electronic filing?
+Issue 3: Are there alternatives or modifications that could enhance the CRA's administration of electronic tax return filing for individuals?
+What changes, if any, could improve the CRA's administration of tax return filing?
+What alternative approaches or modifications could be adopted from strategies or best practices of other tax administrations with a similar form of tax?
+What strategies are in place or planned that could enhance the CRA's administration of tax return filling?
+This report summarizes the findings related to these issues and research questions. Findings are to provide CRA senior management with information on the growth and characteristics of T1 individual income tax returns (tax return); and the current state of CRA's tax administration in relation to the shift to electronic tax return filing. The study also identified potential alternatives or modifications that could improve CRA's tax administration. The logic model in Appendix A illustrates the outputs and outcomes related to paper and electronic tax return filing. Appendix E provides definitions of key terms.
+Background
+Canada's tax system is based on self-assessment. Canada levies personal income tax on the worldwide income of individual residents of Canada and on certain types of Canadian-sourced income earned by non-residents or deemed residents. This means that individuals complete a tax return to report their annual income and claim all deductions or credits that apply to their situation in accordance with the ITA and regulations. Appendix B provides the situations when a tax return is required or when it may benefit an individual to file a tax return.
+Generally, tax returns must be filed by April 30 of the year following the tax year. However, in circumstances where an individual, their spouse, or common-law partner carried on a business during the tax year, the tax return must be filed on or before June 15 if there was tax payable or if the individual is claiming a tax credit or benefit. It is important to note that any balance owing is due on or before April 30 regardless of the date the tax return was due to be filed.
+The traditional method of paper tax return filing has been supplemented by several paperless electronic options. This provides taxpayers with the ability to use third party software to prepare and file their own tax return using NETFILE or to have their tax return prepared and filed by a registered tax preparer  using EFILE . However, certain exclusions for EFILE and restrictions for NETFILE prevent the use of electronic tax return filing (Appendix C).
+A Community Volunteer Income Tax Program, which is a collaboration between community organizations and the CRA, also supports tax return filing for individuals who have a modest income and a simple tax situation. The CRA may also file a tax return on behalf of an individual if they were issued a formal request to file and did not do so. This supports compliance with Canada's ITA and regulations.
+The CRA promotes and enhances its electronic services as a key component of its commitment to excellence in service delivery. Achieving this goal means keeping pace with the trends that are shaping our environment and transforming the administration to align with advancements in electronic services. This includes allowing Canadians to choose how they file their tax return. This shift from paper to electronic tax return filing has required the CRA to adjust systems and processes to accept and validate electronic returns while ensuring the confidentiality of taxpayer information.
+Functional Authority
+The filing, processing, and validation of tax returns are primarily the responsibilities of the Assessment, Benefit, and Service Branch (ABSB), and the Collections and Verification Branch (CVB). All tax returns submitted to the CRA are subject to varying degrees of validation and are processed with a notification of the result in the form of a notice of assessment (NoA) or a notice of reassessment (NoR) being issued to the taxpayer.
+Within the CRA, the ABSB is responsible for receiving and processing of both paper and electronic tax returns and for issuing a NoA or NoR to the taxpayer advising them of their tax situation. They are also responsible for the registration and monitoring of tax preparers, and for providing service and support to tax preparers, software developers, and taxpayers. The ABSB was previously responsible for the validation of information submitted on tax returns; however this responsibility was transferred to the CVB in fiscal year 2015 to 2016.
+The CVB is responsible for the validation of information presented in the tax returns, both before and after a NoA or a NoR has been issued. Through the delivery of a national compliance validation program, CVB validates tax returns and benefit entitlements, and promotes compliance with Canada's tax laws for filing, declaring, withholding, registering, and remitting. These activities support CRA's compliance efforts to ensure that individuals meet their tax obligations in fairness to all Canadians.
+Evaluation methodologies and approach
+A Working Committee was formed with representatives from ABSB, CVB, the Strategy and Integration Branch (SIB) and the Public Affairs Branch (PAB). This committee supported the gathering of branch specific information and the review of preliminary findings and recommendations.
+Internal interviews were conducted with CRA managers and staff. Participants were selected from ABSB, CVB, SIB, PAB, AERB, the Information Technology Branch (ITB), the Appeals Branch and regional personnel in the Atlantic, Ontario and Prairie regions.
+An examination of CRA policies, procedures, business rules and systems was undertaken with responsible branches.
+A series of macro analyses was undertaken on trends in the volume of paper and electronic tax returns, a profile analysis of the 2013 and 2014 tax returns, an analysis of the exclusions and restrictions to electronic filing, trends in validation activities (pre and post assessment), and estimated costs related to tax return processing and compliance validation activities.
+An examination of best practices and emerging trends in electronic tax return filing from other countries – United States of America (USA), United Kingdom (UK), Australia and Denmark.
+Study limitations and constraints
+As this study focused on a macro analysis of CRA's administration, the CRA risk assessment and scoring processes for compliance validation activities were not reviewed as they are closely guarded to protect the integrity of Canada's tax administration. ABSB and CVB programs have also evolved from 2005 to 2014, which impacted the ability to provide a comprehensive cost analysis related to the processing and validation of tax returns. Therefore, the cost analysis in this report is intended to provide information on whether the cost to process or validate a tax return has increased or decreased, and should be considered as a baseline estimate. The costs related to operations and maintenance, capital  and systems were also not included as they could not be isolated to a specific program activity.
+Findings
+This study has confirmed a major shift from paper to electronic tax return filing occurred from 2005 to 2014 with individuals most frequently using registered tax preparers. For the most part, no administrative constraints, within the CRA's control, were identified that inhibited individuals from using the available electronic tax return filing methods. The CRA has also transformed its tax administration – organization, work processes and systems – to align with advancements in electronic tax return filing. Compliance activities continue to be an integral part of Canada's self-assessment tax system. It was also observed that individuals consulted as part of this study, both in headquarters and the regions, are professional, resilient, able to adapt to change, and most importantly are committed to ensuring that all taxpayers meet their tax obligations and pay their fair share of tax.
+The next section of the report outlines the results of the evaluation study as well as opportunities that could support CRA's tax administration and improve client service.
+1. Electronic tax return processing volumes have increased significantly since 2005
+Each year individual taxpayers are required to file their tax returns to report their income and deductions to the CRA. In analyzing processing statistics from the 2005 to 2014 tax return filing seasons, it was confirmed that there has been a major shift from paper to electronic tax return filing.
+For the 2005 tax return filing season, 25.0 million tax returns were processed  compared to 28.3 million in 2014. This represents a 13% increase in the total volume of tax returns processed. (Figure 1)
+Figure 1 – Trend in paper versus electronic tax returns processed – 2005 to 2014 tax return filing season
+Conclusion
+The 2014 tax return profile and compliance validation analysis are positive with no major constraints identified with the shift from paper to electronic tax return filling. Considering the higher use of registered tax preparers, and to better understand how the registered tax preparers support CRA's tax administration, an independent study would provide additional insight on the EFILE tax return filing method and the individuals who pay a fee to use this service. This study will be considered in the development of the AERB 2018 to 2021 Risk-based Audit and Evaluation Plan.
+In addition, with the electronic systems working as intended an opportunity exists to promote electronic tax return filing for certain groups as well as to explore the transmission of data on certain tax forms and schedules to support compliance activities and interactions with Canadians. Employees are the cornerstone of CRA's administration and have strongly voiced the need to take stock of system maintenance upgrades in place as a part of the T1SR project, and to ensure that application coding provides a sufficient font size for employees. The goal is to mitigate unintended impacts on employee's health and wellness while ensuring accurate, efficient service is provided to Canadians.
+Recommendation 1
+ABSB, in consultation with other stakeholders, undertake a comprehensive analysis to identify ways to promote electronic tax return filing and increase take-up rate for those groups showing a slower transition from paper to electronic tax return filing.
+Management Response:
+The CRA's success in promoting and enhancing electronic filing has allowed us to reach an 86% electronic filing rate to date. However, it is understood that some taxpayers may never switch from paper to electronic filing due to many factors, including complexity of their tax situation, technological limitations or socio-economic situation. ABSB is working with Agency stakeholders and gathering information related to the remaining groups of paper filers to ensure we are doing what we can to help those that wish to electronically file, as well as support taxpayers who chose to continue to paper file. We will complete this analysis by Q1 of fiscal year 2018 to 2019. A report detailing the results of this analysis and proposed action plan will be shared with senior management by Q2 of fiscal year 2018 to 2019.
+Recommendation 2
+ABSB, in consultation with CRA stakeholders, explore and assess the feasibility to have data on certain tax forms and schedules transmitted to support compliance activities and interactions with Canadians.
+Management Response:
+ABSB actively participates, on an ongoing basis, on an inter-branch working group and DG steering committee (DISC) that formally reviews data that is captured and transmitted on the T1 Return. The working group (led by SIB) balances the value of obtaining and holding tax data vs. the cost, burden and impact of collecting that data. At the next working group meeting, ABSB will work with other CRA stakeholders to assess the feasibility and impacts of transmitting more data to support compliance activities and interactions with Canadians. ABSB will provide an update in June 2018, following the May 2018 DISC meeting.
+Recommendation 3
+ABSB, in consultation with CRA stakeholders, take stock of system maintenance and upgrades and address employee concerns with the T1SR project.
+Management Response:
+ABSB recognizes that field users are adapting to new technological tools and will continue to support them by working with local management to identify improvements and corrections that will assist them with the transition. As display irritants remain for some users, specifically with the T1 Case system, ABSB, in consultation with CRA stakeholders, will reassess the instructions provided to the field, modify if necessary, and reissue to field users by Q4 of fiscal year 2017 to 2018. We will also continue to support regional management in implementing local ergonomic improvements as identified in a study by the National Health and Safety Committee.
+Moving forward, after assessing the impact of display changes included in the February 2018 release, ABSB will work with ITB and other CRA stakeholders to prioritize further enhancements for the February 2019 and if necessary, the February 2020 release. This is the earliest possible timing as these system releases are aligned with the release calendar for the T1 Suite of programs which occurs once a year in February. ABSB will provide status updates on the February 2019 T1 Case system enhancements in Q1 of fiscal year 2019 to 2020 and Q1 of fiscal year 2020 to 2021, if necessary.
+Acknowledgement
+We would like to acknowledge and thank all CRA stakeholders interviewed for their support during the evaluation study. We observed that employees, both in headquarters and the regions, are professional, resilient, able to adapt to change, and most importantly are committed to providing quality service to Canadians and to ensuring that all taxpayers meet their tax obligations and pay their fair share of tax.
+Appendices
+Appendix A: Logic model
+Image description
+Appendix A – Logic Model
+April 25, 2016
+Electronic and Paper Tax Return Filing – Individual Compliance Behaviour
+Individual (NETFILE, Paper)
+Third Party Tax Preparers (EFILE, Paper)
+Community Volunteer (EFILE, Paper)
+Major Activities
+
+Program Management and Business Intelligence
+
+Sub-Activities
+
+Legislative review, policy and procedures development
+Resource and workload planning
+Performance monitoring and reporting
+Stakeholder consultation
+Functional direction, technical advice and training
+Research, risk assessment and strategy development
+e-Services initiatives that support innovation and CRA’s sustainable development strategy
+
+
+Outputs
+
+Legislation, policy and procedures
+Resource and workload allocation
+Sharing of information, advice and guidance with CRA stakeholders
+Guidance, manuals, training courses and tools
+Performance monitoring reports
+System and program delivery changes
+
+
+Immediate Outcomes
+
+Effective legislative tax framework
+Improved use of CRA business intelligence
+Knowledgeable and trained personnel
+Consistent application of policies and procedures
+Improved ability to identify risks and implement strategies to address non-compliance
+Improved system and program delivery
+
+
+Intermediate Outcomes
+
+Improved effectiveness of the T1 filing program to detect and address non-compliance
+Optimize resource utilization
+
+
+Ultimate Outcomes
+
+Canadians have access to a secure and modern way to meet their T1 tax return filing obligations
+Tax base is protected
+
+
+
+
+IT System and Security
+
+Sub-Activities
+
+Design and development
+Testing  and deployment 
+Maintenance and monitoring
+Security assessment and  authorization
+
+
+Outputs
+
+System available to electronically file tax returns
+Taxpayer information is protected
+System monitoring reports  
+System maintenance, upgrades  and changes made
+
+
+Immediate Outcome
+
+System integrity is optimized
+
+
+Intermediate Outcome
+
+Increased confidence of taxpayers and  representatives in the use of electronic filing services
+
+
+Ultimate Outcomes
+
+Canadians have access to a secure and modern way to meet their T1 tax return filing obligations 
+Tax base is protected
+
+
+
+
+Communication
+
+Sub-Activities
+
+Telephone and written enquiry services
+Forms and publication development
+Outreach and other public communications
+Community Volunteer Income Tax Program
+Website development
+Ministerial and media enquiry services
+
+
+Outputs
+
+Information and guidance provided
+Electronic and paper based information and publications
+Outreach presentations and public communications (e.g. media, tweets)
+Responses to ministerial and media enquiries
+
+
+Immediate Outcome
+
+Increased level of understanding of tax filing obligations 
+
+
+Intermediate Outcome
+
+Improved taxpayer compliance behaviour with T1 tax return filing obligations
+
+
+Ultimate Outcomes
+
+Canadians have access to a secure and modern way to meet their T1 tax return filing obligations 
+Tax base is protected
+
+
+
+
+Compliance
+
+Sub-Activities
+
+Pre assessment validation 
+Tax return processed 
+Post assessment validation
+Leads and referrals to audit
+
+
+Outputs
+
+Tax returns validated
+Tax returns assessed 
+Debt, refund or no balance due  established
+Notice of Assessment or Reassessment issued 
+Non-filers identified
+Tax schemes identified
+Leads and referrals sent to Audit
+
+
+Immediate Outcome
+
+Increased taxpayer awareness of their tax situation and actions required
+
+
+Intermediate Outcome
+
+Improved taxpayer compliance behaviour with T1 tax return filing obligations
+
+
+Ultimate Outcomes
+
+Canadians have access to a secure and modern way to meet their T1 tax return filing obligations 
+Tax base is protected
+Appendix B: Reasons to file a tax return
+Image description
+Appendix B: Reasons to file a tax return
+Do you have to file a return?
+You must file a return for 2016 if:
+
+You have to pay tax for 2016.
+We sent you a request to file a return.
+You and your spouse or common-law partner elected to split pension income for 2016. See lines 115, 116, 129, and 210.
+You received working income tax benefit advance payments in 2016.
+You disposed of capital property in 2016 (for example, if you sold real estate, your principal residence, or shares) or you realized a taxable capital gain (for example, if a mutual fund or trust attributed income to you, or you are reporting a capital gains reserve you claimed on your 2015 return).
+You have to repay any of your old age security or employment insurance benefits. See line 235.
+You have not repaid all amounts withdrawn from your registered retirement savings plan (RRSP) under the Home Buyers’ Plan or the Lifelong Learning Plan. For more information, go to Home Buyers’ Plan (HBP) or see Guide RC4112, Lifelong Learning Plan (LLP).
+You have to contribute to the Canada Pension Plan (CPP). This can apply if for 2016 the total of your net self-employment income and pensionable employment income is more than $3,500. See line 222.
+You are paying employment insurance premiums on self-employment and other eligible earnings. See lines 317 and 430.
+
+Even if none of these requirements apply, you should file a return if:
+
+You want to claim a refund.
+You want to claim the working income tax benefit for 2016.
+You want the goods and services tax/harmonized sales tax (GST/HST) credit (including any related provincial credits). For example, you may be eligible if you turn 19 before April 2018.
+You or your spouse or common-law partner want to begin or continue receiving Canada child benefit payments, including related provincial or territorial benefit payments.
+You have incurred a non-capital loss (see line 236) in 2016 that you want to be able to apply in other years.
+You want to carry forward or transfer the unused part of your tuition, education, and textbook amounts. See line 323.
+You want to report income for which you could contribute to an RRSP and/or a pooled registered pension plan (PRPP) to keep your RRSP/PRPP deduction limit for future years current.
+You want to carry forward the unused investment tax credit on expenditures you incurred during the current year See line 412.
+You receive the guaranteed income supplement or allowance benefits under the old age security program. You can usually renew your benefit by filing your return by April 30. If you choose not to file a return, you will have to complete a renewal form. This form is available from Service Canada.
+
+Deceased persons
+If you are the legal representative (the executor, administrator, or liquidator) of the estate of a person who died in 2016, you may have to file a return for 2016 for that person. For more information see T4011, Preparing Returns for Deceased Persons and Information Sheet RC4111, Canada Revenue Agency - What to Do Following a Death.
+Appendix C: Restrictions and exclusions
+Image description
+Appendix C: Restrictions and exclusions
+Eligibility
+NETFILE is available to most taxpayers. However some types of tax returns can’t be sent electronically. For a list of exceptions, see “Restrictions” and “Other restrictions” below.
+Tax preparation service providers can’t use NETFILE to file tax returns for their clients. They have to use EFILE.
+Restrictions
+There are certain types of tax returns that can’t be sent to the Canada Revenue Agency (CRA) electronically:
+
+an amended tax return;
+a return for any taxation year other than 2013, 2014, 2015 or 2016; or
+a tax return for another person (for example, if a taxpayer prepared a spousal/family return, each taxpayer must send his or her return separately).
+
+You can’t use NETFILE to file your tax return if:
+
+you are filing an income tax and benefit return for the first time with the CRA and the CRA does not have your complete date of birth on record;
+you went bankrupt in 2016 or 2017 (does not include a proposal for bankruptcy);
+you are a non-resident of Canada; or
+Review our list of other restrictions below.
+
+You can’t use NETFILE to change personal information such as your:
+
+name
+address
+direct deposit information (nor can you request direct deposit)
+
+To learn more about updating personal information, go to:
+
+How to tell the CRA about your change of name
+How to change your address
+Image description
+Other restrictions
+The following is a list of specific situations that prevent you from filing a tax return through the NETFILE service:
+
+Your tax return was discounted by a third party.
+You are considered a deemed resident (that is, you don’t have to pay provincial or territorial tax).
+You are filing a tax return for an individual who died in 2016 or 2017.
+Your social insurance number or individual tax number begins with 09.
+You are an emigrant or non-resident of Canada. This excludes the following income and tax forms: Schedule A, Schedule B, Schedule C, income from NR4 slips, T4A-NR slips, NR-OAS slips, and NR-CPP/QPP slips, section 116 income, section 216 income, section 217 income, taxable capital gains from disposing of Canadian property if received as a non-resident, and Old Age Security Return of Income.
+Your address is outside Canada.
+You are electing to defer tax on a distribution of spin-off shares by foreign corporations.
+You are claiming less than the maximum federal foreign tax credit.
+
+You are reporting any of the following:
+
+Canadian-source income from Lloyds of London;
+registered disability savings plan income in field 125 and you are not eligible for the disability amount for self for the current tax year and for the first and second immediately preceding tax years (that is, there is no valid Form T2201, Disability Tax Credit Certificate, on record for at least one of these three years).Note: This exclusion is only meant to prevent an amount from being reported incorrectly in field 125 when it should have been reported in another income field on the return;
+employment income earned from an international organization;
+lump-sum pension income accrued to December 31, 1971;
+more than six sets of financial statements;
+an Ontario, Saskatchewan, British Columbia, or Yukon qualifying environmental trust tax credit (may also be referred to as a mining reclamation trust tax credit); or
+a statement of qualifying retroactive lump-sum payments (Form T1198).
+
+You are claiming any one of the following:
+
+a federal non-business foreign tax credit for more than three countries;
+a federal business foreign tax credit for more than three countries;
+a deduction for scientific research and experimental development expenses;
+an Alberta stock savings plan tax credit (Form T89);
+a Saskatchewan royalty tax rebate (Form T82);
+a Nova Scotia research and development tax credit recapture;
+a claim that involves more than 22 children;
+a Newfoundland and Labrador research and development tax credit (Form T1129); or
+a deduction in field 207 that includes amounts calculated from a combination of at least two of the following forms:
+Image description
+
+Form RC269, Employee Contributions to a Foreign Pension Plan or Social Security Arrangement for 2013 – Non-United States Plans or Arrangements;
+Form RC267, Employee Contributions to a United States Retirement Plan for 2013 – Temporary Assignments;
+Form RC268, Employee Contributions to a United States Retirement Plan for 2013 – Cross-Border Commuters.
+
+You are reporting farming income with an AgriStability and/or AgriInvest Program application which involves:
+
+farming income from a partnership reported on a T5013 slip or a partnership that includes a corporate partner;
+a Canadian Indian reporting self-employed income which is "tax-exempt income";
+Selected financial data type 9 with more than 10 occurrences in section 7 and/or 8 from page 7 of Form T1273; or
+Selected financial data type 9 with more than 8 occurrences in section 10, 11, and/or 12 from page 7 of Form T1273.
+
+If you have to file an amended or previous-year tax return, or any other tax return that doesn’t qualify for NETFILE, go to Where to mail your paper T1 return.
+Image description
+Exclusions
+You cannot use EFILE web service to file an initial T1 return for any tax year except 2013, 2014, 2015 and 2016. In addition, you cannot file a return electronically in any of the following situations:
+
+The taxpayer is a deemed resident (not subject to provincial or territorial tax).
+The taxpayer died prior to the current tax year. Early filed and Elective deceased returns also remain as exclusions.
+The taxpayer's social insurance number begins with a 0. Only newcomers to Canada with a SIN starting with 0 are eligible to use EFILE.
+The taxpayer is coded bankrupt according to Canada Revenue Agency's records and is filing an in-bankruptcy or post-bankruptcy return. Only pre-bankruptcy returns that are not early-filed are accepted through EFILE.
+The taxpayer is an emigrant or a non-resident. This excludes the following income and tax forms: Schedule A, Schedule B, Schedule C, income from NR4 slips, T4A-NR slips, NR-OAS and NR-CPP slips, Section 116 income, Section 216 income and Section 217 income, taxable capital gains from disposing of Canadian property if received as a non-resident and OASRI.
+The taxpayer's address is outside Canada.
+The taxpayer is reporting:
+
+Canadian source income from Lloyds of London; 
+employment income earned from an International Organization; 
+lump-sum pension income accrued to December 31, 1971; 
+more than 6 SFD records; 
+an Ontario, Saskatchewan, British Columbia or Yukon qualifying environmental (mining reclamation) trust tax credit; 
+a statement of qualifying retroactive lump-sum payment (T1198); or, 
+a Nova Scotia research and development tax credit recapture.
+
+
+The taxpayer is electing to defer tax on a distribution of spin-off shares by foreign corporations.
+The taxpayer is claiming:
+
+less than the maximum federal foreign tax credit; 
+foreign taxes paid to more than three countries; 
+business foreign taxes paid to more than three countries; 
+a deduction for scientific research and experimental development expenses; 
+an Alberta stock savings plan tax credit (T89).
+
+
+The taxpayer is reporting farming income with the AgriStability and AgriInvest programs application, which involves:
+
+farming income from a partnership reported on a T5013 slip or a partnership that includes a corporate partner; 
+a Canadian Indian reporting self-employed income that is "tax-exempt income”; 
+more than 50 occurrences for either crop and livestock inventory (SFD type 9 only).
+
+
+The taxpayer is filing Form RC199, Voluntary Disclosures Program (VDP), Taxpayer Agreement or the taxpayer is making a request to the Voluntary Disclosures Program.
+Appendix D: Profile analysis - methodology and data results by province and territory
+Low Income
+The established WITB income values were used to define and segment the low income group from the 2014 tax returns. This program defines low net income thresholds as $37,195 for Nunavut, $20,072 for Quebec, $19,721 for British Columbia, $19,139 for Alberta, and $17,986 for the rest of Canada. (Figure D.1)
+Figure D.1 – Number and percentage of tax returns filed for low income by filing method and by province and territory for tax year 2014
+Source: 2014 Tax Returns
+Geographic area - Rural and Urban
+For the rural and urban group, the postal code, as assigned by Canada Post, were used to define and segment these two groups from the 2014 tax return population to better understand their filing behaviour. (Figure D.2)
+Figure D.2 – Number and percentage of tax returns filed by geographic area - rural and urban and by filing method for tax year 2014
+Source: 2014 Tax Returns
+Persons with disabilities
+The persons with disabilities group was created by selecting individuals who received a DTC on their 2014 tax return. (Figure D.3)
+Figure D.3 – Number and percentage of tax returns filed by persons with disabilities by province and territory and by filing method for tax year 2014
+Source: 2014 Tax Returns
+Youths and seniors
+Youths were defined as those who had filed a tax returns who were under the age of 20 while seniors were defined as 65 years or older. This criteria was selected as CRA commonly uses these thresholds to determine eligibility for various benefits and services such as the CVITP. (Figure D.4)
+Figure D.4 – Number and percentage of tax returns filed by youth and seniors and by filing method for tax year 2014
+Source: 2014 Tax Returns
+Self-Employed
+The self-employed group was created by using the major source of income as reported on the 2014 tax return. (Figure D.5)
+Figure D.5 – Number and percentage of tax returns by filing method for self-employed individuals for tax year 2014
+Source: 2014 Tax Returns
+Newcomers to Canada
+For income tax purposes, an immigrant is considered a newcomer to Canada only for the first year that they are a new resident of Canada. The newcomer group was created from data reported on the tax returns in 2013 and the same group was tracked in 2014 to assess any change to their tax return filing behaviour. (Figure D.6)
+Figure D.6 – Number and percentage of tax returns filed for newcomers by province and territory and by filing method for tax years 2013 and 2014
+Source: 2013 and 2014 Tax Returns
+Gender
+The gender group was identified by the gender field in the T1 master database of the 2014 tax return filing population. (Figure D.7)
+Figure D.7 – Number and percentage of tax returns by filing method and gender for tax year 2014
+Source: 2014 Tax Returns
+Appendix E: Glossary
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2018-01-24
+Appendix D: Profile analysis - methodology and data results by province and territory
+Low Income
+The established WITB income values were used to define and segment the low income group from the 2014 tax returns. This program defines low net income thresholds as $37,195 for Nunavut, $20,072 for Quebec, $19,721 for British Columbia, $19,139 for Alberta, and $17,986 for the rest of Canada. (Figure D.1)
+Figure D.1 – Number and percentage of tax returns filed for low income by filing method and by province and territory for tax year 2014
+Appendix E: Glossary
+Page details
+Report a problem on this page
+
+
+
+
+
+
+
+Date modified:
+2018-01-24

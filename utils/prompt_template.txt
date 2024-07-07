@@ -1,0 +1,67 @@
+### Evaluation Report Critique Framework
+
+Context: You are evaluating an evaluation report to ensure it is practical, impactful, and meets high standards of quality and relevance. Use the following prompts to guide your critique.
+
+1. **Clarity and Purpose**
+   - Explain how the evaluation report states its purpose and objectives. What makes these clear or unclear?
+   - Discuss how well the goals of the evaluation are outlined. What elements contribute to their clarity or lack thereof?
+   - Analyze how the intended users and uses of the evaluation findings are identified and addressed. How does this affect the report's overall effectiveness?
+
+2. **Executive Summary**
+   - Evaluate the effectiveness of the executive summary in summarizing key findings, conclusions, and recommendations. What aspects are well-presented, and which could be improved?
+   - Reflect on whether the executive summary provides a comprehensive yet concise overview of the evaluation. How does it succeed or fail in this regard?
+
+3. **Stakeholder Engagement**
+   - Critique how the report documents stakeholder engagement throughout the evaluation process. What methods are used to involve stakeholders, and how effective are they?
+   - Discuss how the needs, perspectives, and contributions of stakeholders are reflected in the report. What impact does this have on the evaluation’s relevance and utility?
+
+4. **Methodology**
+   - Examine the description and justification of the evaluation methods and approaches. Are they aligned with the evaluation questions, and why is this alignment important?
+   - Assess the appropriateness and rigor of the data collection and analysis methods. What are the strengths and potential weaknesses of these methods? How are limitations or biases acknowledged and addressed?
+
+5. **Findings and Conclusions**
+   - Analyze the clarity and logical presentation of the findings. How are they supported by evidence, and what could be done to strengthen this support?
+   - Discuss the conclusions drawn from the findings. How well do they follow logically from the data, and how are they linked to the evaluation questions?
+
+6. **Recommendations**
+   - Evaluate the specificity, actionability, and relevance of the recommendations. How are they derived from the findings, and what makes them practical or impractical?
+   - Consider the feasibility and potential impact of the recommendations. What factors influence their potential for successful implementation?
+
+7. **Use of Data and Indicators**
+   - Critique the relevance and performance of the indicators used in the evaluation. How effectively do they measure the intended outcomes?
+   - Discuss the rationale for selecting these indicators and the adequacy of data sources and data quality. What improvements could be made?
+
+8. **Cultural and Contextual Considerations**
+   - Evaluate how the report demonstrates cultural sensitivity and relevance. How are the evaluation processes and findings contextualized to reflect the cultural context?
+   - Analyze the ethical considerations and safeguards for participants. How are these documented and addressed, and what impact do they have on the evaluation’s integrity?
+
+### Specific Prompts Based on Document Insights
+
+1. **Checklist Application (from Miron)**
+   - Discuss how well the report adheres to the structure and elements outlined in the Evaluation Report Checklist by Gary Miron. What elements are particularly well-done, and which could be improved?
+   - Reflect on the clarity of the title, author details, and preferred citation format as recommended in the checklist. How do these elements contribute to or detract from the report's professionalism?
+
+2. **Evaluation Questions (from Wingate & Schroeter)**
+   - Analyze the definition and alignment of the evaluation questions with the evaluation’s purpose and scope. What important topics are covered or omitted, and why is this significant?
+   - Evaluate the rationale provided for including or excluding specific evaluation topics. How does this rationale support or weaken the report's overall validity?
+
+3. **Program Description and Context (from MacDonald)**
+   - Critique the thoroughness of the program description, including its goals, funding, stakeholders, and context. How effectively does this information set the stage for understanding the evaluation?
+   - Discuss the use of a logic model to illustrate the program's mechanism of change. How does this model contribute to the report's clarity and usefulness?
+
+4. **Communication Strategies (from Hunter & Hillman)**
+   - Evaluate the effectiveness of the communication strategies used in the report to convey findings to diverse stakeholders. What are the strengths and weaknesses of these strategies?
+   - Reflect on the inclusion of feedback mechanisms such as focus groups or stakeholder reviews. How do these enhance the communication and engagement process?
+
+5. **Evaluation Design and Methods (from Stufflebeam)**
+   - Analyze how the evaluation design reflects a clear purpose, user needs, and methodological rigor as recommended by Stufflebeam. What are the strengths and areas for improvement?
+   - Discuss the use of mixed-method designs to enhance the richness and quality of the evaluation inquiry. How does this approach benefit the evaluation?
+
+---
+
+### Query:
+{{ query }}
+
+---
+
+Please critique the evaluation report based on the above framework.

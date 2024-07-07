@@ -1,0 +1,40 @@
+Executive Summary
+Background
+The Canada Revenue Agency (CRA) has an annual operating budget of more than $4 billion. It undertakes many Major Project Investments (MPI) in the course of carrying out its mandate, accounting for approximately 3.2% of Agency budget in 2014-2015 . Project investments are focused on addressing the Agency’s strategic priorities as identified annually in the Corporate Business Plan  as well as responding to Government of Canada priorities. The Canada Revenue Agency Act confers authority for project management on the CRA directly, and thus requires the establishment of strong internal governance and oversight structures to manage these investments.
+Branches and regions are invited to submit proposals for MPIs on an annual basis. The Resource Management Directorate (RMD) of the Finance and Administration Branch works with branches and regions at all levels to prioritize MPIs using a priority ranking model approved by the Agency Management Committee which includes Government of Canada priorities. The resulting Strategic Investment Plan (SIP) identifies MPIs over a rolling ten-year period, and is reviewed and updated annually to ensure that investment decisions stay aligned with changing Agency and Government of Canada priorities.
+The Finance Committee (FC) also provides oversight to MPIs by the means of a project gating process where reporting is required at key decision points. Initiatives with projected costs of over $20 million also require oversight from the Board of Management.
+Objective
+The objective of the audit is to provide reasonable assurance to CRA senior management that appropriate controls are in place and are working as intended within FC processes for MPIs and that the SIP is in alignment with Agency objectives.
+Conclusion
+Overall, internal controls currently in place support and facilitate Agency strategic investment planning, the project gating structure provides FC with the information needed for project management oversight and there is a strong approval process in place for changes to required project funding. However, certain opportunities exist to improve the process by:
+leveraging enterprise architecture to direct the focus of investment priorities from an Agency-wide perspective to facilitate the identification of individual branch or enterprise proposals;
+reviewing guidelines on the content of project documents and the use of project briefs as a way to reduce administrative burden;
+facilitating the development of and access to qualified project management resources;
+strengthening benefit management; and,
+clarifying existing FC protocols with regards to the funding ceiling.
+Action Plan
+RMD agrees with the findings and recommendations in this audit, which represent a point in time perspective of when the audit was conducted. RMD has reported that plans are in place, and progress has been made to respond to all of the recommendations. These plans include:
+further utilizing existing tools such as governance committees, IT Architecture, and investment portfolio clustering to increase horizontal integration;
+increasing emphasis on making project management training and tools more accessible and visible for all Agency areas;
+formalizing existing and examining new mechanisms that may exist to reduce the administrative burden that surrounds the current process;
+introducing a benefit management process that makes use of benefit mapping and covers the entire project lifecycle; and,
+reviewing its definition and application of the funding ceiling.
+Introduction
+Effective investment planning and project management are essential in providing value for money and sound stewardship in program delivery . According to PricewaterhouseCoopers, 97 percent of organizations believe project management is critical to business performance and organizational success . Unfortunately, while high-performing organizations successfully complete 89% of their projects, low performers only complete 36% .
+The Canada Revenue Agency (CRA), with more than 40,000 employees and an annual operating budget of more than $4 billion, undertakes many Major Project Investments (MPIs) in the course of carrying out its mandate. MPIs accounted for approximately 3.2% of Agency budget in 2014-2015 . Project investments are focused on addressing the Agency’s strategic priorities as identified annually in the Corporate Business Plan  as well as responding to Government of Canada priorities. The Canada Revenue Agency Act confers authority for project management on the CRA directly, and thus requires the establishment of strong internal governance and oversight structures to manage these investments.
+The CRA prioritizes and plans MPIs through the Strategic Investment Plan (SIP) process. Branches and regions are invited annually to submit proposals for investment projects that support the Agency's strategic agenda for the upcoming 10 years. Proposals are ranked according to a priority ranking model approved by the Agency Management Committee (AMC). A portfolio of projects is established taking into account, among other factors, project ranking and Government of Canada priorities. The status and nature of the current portfolio is also examined to help determine the optimal mix and sequencing of proposed projects to manage risks while achieving corporate objectives. The resulting SIP identifies MPIs over a rolling ten-year period and is reviewed and updated annually to ensure that investment decisions stay aligned with changing Agency and Government of Canada priorities.
+The CRA Finance Committee (FC), a senior management committee chaired by the Chief Financial Officer, provides oversight for MPIs, which are formally defined as projects :
+with spending in excess of $1 million in any one fiscal year, regardless of the source of funding;
+that pose a significant risk to Agency operations or assets; 
+for which that level of oversight is deemed necessary by the AMC, including Treasury Board funded initiatives; or,
+which make a request for incremental funding from the Agency's Strategic Investment Reserve.
+The FC, which is composed of representatives from all branches and regions, meets regularly to oversee the progress of MPIs and ensure that projects are managed effectively to maximize benefits to the CRA. There are typically two extended meetings during the year to provide an update on the Resource Management Strategy. It is during these meetings that senior management considers the Agency’s financial position and projected flexibilities, and makes decisions on the management of funds for both the Operating Reserve and the Strategic Investment Reserve.
+The Strategic Investment Planning and Oversight Division (SIPOD) of the Resource Management Directorate (RMD) in the Finance and Administration Branch provides support and secretariat services to the FC. It also provides guidance to project management teams in the preparation of project reports and performs a challenge role to ensure that information reported is sufficient and reliable for decision making. The FC reporting process includes gates , or decision points, requiring the submission of template reports at the end of six project stages:
+Business problem/opportunity definition;
+Options analysis;
+Detailed planning;
+Execution;
+Close-out; and,
+Benefits realization.
+Projects with longer timelines are also required to produce progress reports annually. The FC makes recommendations to AMC for approval regarding portfolio composition and project reports at the various decision gates. Initiatives with a projected cumulative cost of over $20 million also require oversight from the Board of Management.
+In 2015-2016, the CRA was planning to spend $123 million on 33 FC projects . Four of these projects (Benefits System Renewal, Collection Limitation Period, Compliance Systems Redesign and T1 Systems Redesign) were also being overseen by the Board of Management.

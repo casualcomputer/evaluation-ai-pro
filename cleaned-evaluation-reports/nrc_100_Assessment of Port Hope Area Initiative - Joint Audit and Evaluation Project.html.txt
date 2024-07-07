@@ -1,0 +1,249 @@
+Assessment of Port Hope Area Initiative - Joint Audit and Evaluation Project
+Audit Branch and Strategic Evaluation Division
+Natural Resources Canada
+December 17, 2015
+Contents
+Port Hope Area Initiative - Program Context
+Summary of Findings
+Conclusion
+Statement of Conformance
+Assessment Considerations
+Assessment Objective and Focus
+Assessment Scope
+Assessment Approach and Methodology
+Port Hope Area Initiative - Background
+Program Description
+Evolution of Program Governance Structure - Pre-Transition to AECL
+Findings
+Achievement of Expected Outputs and Outcomes
+Outstanding Municipality Concerns
+Post-Transition to AECL and Future Considerations
+Challenges related to Program Schedule and Cost Forecast
+Transition Planning
+Recommendation
+Management Response and Action Plan
+Appendix A – Assessment Criteria
+Appendix B – Summary Status of PHAI Outputs and Outcomes
+Port Hope Area Initiative - Program Context
+Natural Resources Canada (NRCan) is responsible for Canada’s federal radioactive waste policy. Under this policy, waste owners are responsible for its management. In some circumstances, an owner does not exist, or the Government considers it unreasonable for the current owner to be held responsible. In these cases, Canada has accepted responsibility for developing and implementing solutions for the safe, long-term management of this waste. Such is the case for the historic low level radioactive waste (LLRW) found in the Port Hope area, since it is the legacy of the operations of Eldorado Nuclear Limited, a former federal Crown Corporation, and its private-sector predecessors.
+The Port Hope Area Initiative (PHAI) represents Canada’s program dedicated to addressing the federal Government’s assumed responsibilities for the clean-up and safe, long-term management of historic low-level radioactive waste in the municipalities of Port Hope and Clarington, Ontario. Canada has a legal obligation to carry out the PHAI pursuant to a 2001 Legal Agreement between Canada and the Municipalities of Port Hope and Clarington (the Legal Agreement).
+This report reflects the status of the PHAI and associated Government of Canada decisions as at July 31, 2015. On September 13, 2015, responsibility for Canada’s PHAI was formally transferred from NRCan to Atomic Energy of Canada Limited (AECL) as part of the restructuring of AECL. On that date, the Legal Agreement was transferred from NRCan to AECL, and NRCan no longer has any contractual responsibilities to carry out the PHAI.
+On June 26, 2015, the Government of Canada announced the competitively selected preferred bidder to assume, as part of a broader contract, operational responsibility for the PHAI. During the Assessment phase, it was confirmed that all of NRCan’s obligations and responsibilities for the PHAI would be moved to Atomic Energy of Canada Limited (AECL) effective September 13, 2015. Prior to that, the Department would continue to assist in the transfer of PHAI responsibilities to AECL, and would continue to provide support to AECL as required for a period of up to 12 months thereafter. After that period, NRCan will no longer have a formal role in the PHAI.
+Summary of Findings
+Following is a summary of key findings from the assessment of the PHAI. These observations are further detailed in the
+Assessment Findings
+section of this report.
+The Legal Agreement between Canada and the Municipalities of Port Hope and Clarington (Port Granby) highlights the need for remediation activities and describes the roles and responsibilities of all key partners. Differences in the interpretation of the Legal Agreement have resulted in several contractual disputes requiring resolution with Municipal governments. These issues remain as key risks for the Port Hope project.
+The majority of PHAI expected outputs and outcomes appear on track, although there have been some delays in program delivery. One particular outcome related to the Property Value Protection Program, the main Transfer Payment Program (PVP Program), a Transfer Payment Program designed to compensate property owners who realize a financial loss due to a diminution of property values because of the activities on the part of the PHAI, should continue to be monitored. NRCan and its partners have made progress to address some of the issues previously identified; the visibility of the program requires on-going attention and clear communication with residents.
+In relation to the transfer of NRCan program responsibilities to AECL, NRCan has commenced definition of its transition roles and responsibilities, however a detailed transition plan addressing all areas under NRCan’s responsibility has not yet been developed. Given the complexity of the transfer of NRCan’s program oversight and funding obligations related to PHAI to AECL, NRCan should develop a comprehensive PHAI transition plan to guide transition activities for the period leading up to and through the 12-month period following the September 2015 transfer. The absence of a detailed transition plan would increase the risk of continuity gaps in Canada’s program management and financial oversight of the PHAI through the transition period.
+Conclusion
+The majority of PHAI outputs and outcomes appear on track, although the PHAI project has been delayed by a number of factors. The impact of differing interpretations of the Legal Agreement between the federal and municipal levels of government was considered the key cause of delays during the Assessment. Overall, delays in starting the clean-up, combined with issues in the administration of the PVP Program (particularly around the definition of “project effect”), were noted as causing potential issues related to public confidence that should continue to be carefully monitored.
+The Assessment found that NRCan has commenced definition of its roles and responsibilities to support the transition of its program roles, and underlying program management and financial management responsibilities to AECL. The assessment found, however that a detailed transition plan addressing all areas under NRCan’s responsibility has not yet been developed.
+Accordingly, there is an opportunity for NRCan to more clearly articulate its role leading up to and during the transition, by developing a detailed plan to support the transfer of its full scope of responsibilities to AECL, including communicating changes to the PVP Program.
+Statement of Conformance
+The assessment conforms with the Internal Auditing Standards for the Government of Canada, as supported by the results of the Quality Assurance and Improvement Program, and the Treasury Board Policy on Evaluation.
+Assessment Considerations
+Assessment Objective and Focus
+The objective of the project was to assess the adequacy of NRCan’s management controls as defined by:
+whether NRCan’s role in the transition of program oversight responsibilities is clearly articulated in order that Canada’s obligations under the Legal Agreement are fully and continuously maintained to achieve PHAI objectives;
+whether appropriate measures have been established to support the transition of NRCan’s program and financial management responsibilities for the PHAI to AECL; and
+how PHAI activities to date have resulted in achieving expected outputs and outcomes.
+Assessment Scope
+NRCan’s Audit Branch and Strategic Evaluation Division are collaborating on this joint audit and evaluation assessment of the Port Hope Area Initiative (PHAI).
+The scope of the project focused on program operations in Phase II of the PHAI. The majority of the Assessment examined the period October 1, 2011, to March 31, 2015. Additional information up to July 31, 2015, was incorporated as required, as it related to clarifying changes in NRCan’s responsibilities for the PHAI during the transition to a new governance model.
+The scope included NRCan’s oversight processes applied to the Port Hope Project, the Port Granby Project and the PHAI Grant Programs, and PHAI impacts, as well as the proposed revised program governance structure (i.e. GoCo operating model) under which program responsibilities will transfer from NRCan to AECL.
+Assessment Approach and Methodology
+The approach and methodology followed the Internal Auditing Standards for the Government of Canada, which incorporates the Institute of Internal Auditors' International Standards for the Professional Practice of Internal Auditing. These standards require that the project be planned and performed in such a way as to obtain reasonable assurance that objectives are achieved. Similarly, the approach and methodology were aligned with the Treasury Board Policy on Evaluation and its related standard.
+Internal auditors and evaluators performed the project with independence and objectivity as defined by their respective professional standards and requirements.
+The approach included the following key tasks:
+Reviewing applicable foundational documentation related to the PHAI (e.g., Legal Agreement, Treasury Board Submissions);
+Reviewing key supporting PHAI documents on project management reporting and results, governance committees, business processes, internal controls and transition planning;
+Conducting interviews with key representatives from NRCan, Public Works and Government Services Canada (PWGSC), AECL, and its wholly owned subsidiary, Canadian Nuclear Laboratories (CNL) related to the management and oversight of the PHAI;
+Conducting a site visit to the PHAI Management Office (PHAI-MO), located in Port Hope, and conducting interviews with the PHAI-MO General Manager and key PHAI-MO representatives responsible for management of the PHAI;
+Conducting interviews with related stakeholders from the municipalities of Port Hope and Clarington, e.g., representatives of municipal governments, real estate professionals; and
+Conducting interviews with program stakeholders and reviewing supporting documentation related to the transition of NRCan’s program oversight role to AECL.
+The following were noted as limitations of the Assessment:
+The scope of the Assessment was limited due to NRCan’s revised role in activities under the Initiative and the extent of change that was taking place in the PHAI transition during the conduct of the Assessment itself.
+Interviews were conducted with only a limited number of external stakeholders due to timing that coincided with municipal and federal elections. The interviewees were selected to be representative of broader communities (e.g., business, real estate). The interview evidence, however, was based on a small sample size and documentation from both NRCan and the PHAI management office was used to mitigate the impact of this limitation.
+The fundamental work of the PHAI phase II; namely the removal of low level radioactive waste from large and small scale sites, had not been initiated during the period covered by the Assessment. As a result, any conclusions on the PHAI were limited and the Assessment focused primarily on issues of management, design and delivery.
+The Assessment was limited in drawing conclusions on the expected outcome of the PVP program as the review and subsequent revision of the program’s administrative rules are not yet complete.
+Port Hope Area Initiative - Background
+Program Description
+The Port Hope Area Initiative includes the Port Hope Project (PHP) and the Port Granby Project (PGP) (the Projects) and involves the remediation of approximately 1.7 million cubic metres of LLRW and industrial waste, and their placement into two new, engineered above-ground mounds.
+The PHAI is being implemented in three phases:
+Planning
+(Completed):
+Environmental assessment and regulatory approvals (2001-2008);
+Detailed design and cost estimates (2008-2011);
+Implementation
+(In Process):
+Construction and cleanup (2011-2024 (
+current forecast
+)); and,
+Long-term monitoring and maintenance
+(Not Started)
+: (2024 and beyond).
+Within the current Implementation phase, the Port Hope Project entails the:
+Remediation of some 13 major sites, an estimated 400 small-scale sites (SSS), three intermediate sites known to contain LLRW, impacted sections of the abandoned discharge pipeline to Lake Ontario and up to 12 kilometres of road allowances, with an estimated volume of impacted soil, harbour sediment, waste drums and building material of approximately 700,000 cubic metres.
+Remediation of an existing LLRW Welcome Waste Management Facility (WWMF) within the Municipality of Port Hope, currently operated by Atomic Energy of Canada Limited (AECL), with an impacted soil volume totalling approximately 455,000 cubic metres.
+Cleanup of some 51,250 cubic metres of non-radioactive contaminated soil from up to five industrial sites in the Municipality of Port Hope.
+Construction of a new Long Term Waste Management Facility (LTWMF) including an engineered aboveground mound, with a capacity for waste and daily cover material totalling approximately 1,900,000 cubic metres.
+The Port Granby Project entails the:
+Remediation of an existing LLRW waste management facility within the Municipality of Clarington, operated by AECL, with an impacted soil volume of approximately 450,000 cubic metres.
+Construction of a new LTWMF, including an engineered aboveground mound, with a capacity for waste and daily cover materials totalling approximately 520,000 cubic metres.
+In addition to the PHP and PGP, the PHAI includes a series of Grant Programs which include:
+Property Value Protection (PVP) Program - The PVP Program offers compensation to property owners experiencing a loss upon sale on rental income, or on mortgage renewal as a result of the PHAI.
+Municipal Tax Revenue Loss Protection (MTRLP) Program - The MTRL Program compensates for loss of municipal tax revenue due to the overall devaluation of properties based on PHAI project effects.
+The original schedule for Phase II completion of the PHAI was 2021/22 (Q3). This projected completion date is now forecast to be 2023/24 (Q1), a delay of 2 years from the original schedule.
+The current estimated cost to complete the implementation (Phase II) of the PHAI projects is $1.28 billion. This excludes approximately $133 million related to Phase I (Planning and Approval) activities. $182 million in Phase II (Implementation) costs have been incurred to March 31, 2015. As at March 31, 2015, NRCan recognizes a financial statement environmental liability of $986 million representing the net present value of estimated future expenditures to complete the projects.
+Evolution of Program Governance Structure - Pre-Transition to AECL
+As a signatory to the 2001 Legal Agreement, NRCan, acting as Canada’s representative, has had overall responsibility to the Municipalities of Port Hope and Clarington for funding and completing all program work to date.
+The need for the PHAI lies in the Legal Agreement that was settled between Canada and the municipalities in 2001 for the clean-up of the LLRW. The clean-up had not commenced during the period covered by the Assessment and the legal agreement remains in effect.
+The 2007 and 2011 program evaluations both arrived at similar conclusions, namely that the Legal Agreement contains a legal commitment for Canada to carry out the Project and defines the roles and responsibilities of all parties. Further, managing contaminated soil from uranium processing fits within NRCan’s nuclear energy mandate (specifically,
+Radioactive Waste Management
+sub-program 2.3.4). However, while the authority to conduct this work is clearly set out in the Legal Agreement and is aligned with NRCan’s mandate, the main activity and cost of the PHAI is a large scale public works project which is not an activity typically associated with science-based departments such as NRCan.
+Since 2008, NRCan has delivered the program under a tripartite arrangement wherein:
+NRCan has acted as the Project Sponsor by obtaining required authorities and funding, providing policy direction, and ensuring that Canada’s obligations under the Legal Agreement are met;
+AECL, through operation of the PHAI Management Office (MO), has been accountable for overall project management and delivery, has been the Proponent for the environmental assessment, and is the Licence Holder (i.e. Canadian Nuclear Safety Commission licensee) and Design Authority; and
+Public Works and Government Services Canada (PWGSC) has acted as the Major Contracting Authority, developing the procurement strategy and plans for contracts led by PWGSC.
+Since 2014, this program governance structure has undergone fundamental changes represented by the following:
+AECL has been reorganized with the creation of a wholly owned subsidiary, Canadian Nuclear Laboratories (CNL), an operating entity that has assumed AECL’s PHAI program management responsibilities;
+PWGSC will no longer act as the major Contracting Authority for the PHAI. This role is currently transitioning to CNL; and
+The shares of CNL are planned to be transferred to a competitively selected private enterprise (a Government Owned, Contractor Operated (GoCo) company) in September 2015.
+The transition to the new GoCo governance model is part of a broader AECL reorganization to realize efficiencies. Upon the transfer of CNL’s shares to the GoCo, NRCan obligations and responsibilities for the PHAI will be moved to AECL. This includes the transfer of all contracts, program authorities, responsibilities, liabilities, and assets associated with PHAI. In addition, program funding that currently flows to NRCan will flow directly to AECL. Specifically, under the proposed PHAI governance structure, AECL will be responsible for:
+Representing Canada, as a party to the Legal Agreement, and delivering on Canada’s commitments to the municipalities of Port Hope and Clarington under the Legal Agreement;
+Becoming the program authority for the PHAI and being responsible for funding and expenditures related to the PHAI;
+Overall program planning, management and delivery of all elements of the PHAI (program delivery will be provided by CNL as part of the GoCo contract);
+Leading the work with the municipalities to resolve ongoing and future issues, should they arise, informally or through the established dispute resolution process set out in the Legal Agreement;
+Assuming the environmental liabilities associated with the PHAI projects currently reflected on NRCan’s financial statement, and the associated reporting responsibilities; and
+Assuming custody of the PHAI related federal assets (including 14 real property sites) that are currently in NRCan’s portfolio.
+In order to assist in the transfer of PHAI responsibilities to AECL, NRCan will retain operational funding and will provide support to AECL for a 12 month period subsequent to the September 2015 share transfer. During the transition period leading to new project management NRCan will provide support to AECL when required.
+Findings
+Achievement of Expected Outputs and Outcomes
+The following section summarizes the Assessment results related to achievement of expected outputs and outcomes of the PHAI. As a result of the PHAI’s transfer to AECL the information below should be shared with AECL as part of the transition to provide insight on potential challenges.
+Outputs
+Outputs from the Port Granby component and the Port Hope component were assessed against their high-level federal milestones.
+Port Granby Project (PGP) Outputs:
+Six of seven high-level PGP federal milestones that were due during the review period were completed, though two with delays. One of the seven continued to be delayed, with no overall impact on the completion date of Phase 2. Overall, progress on the Port Granby project was noted as positive by external and internal stakeholders.
+Port Hope Project (PHP) Outputs:
+Five of the nine high-level federal milestones that were due during the review period were completed, though three were with delays. The remaining four milestones faced varying periods of delays, which resulted in the deferral of Phase 2 completion by two years.
+The influencing factors that affected the progress of the projects were:
+Municipal issues related to Port Hope;
+Adjustments to project plans due to realities on the ground;
+The length of federal approval processes;
+Governance challenges;
+Procurement challenges; and
+Modifications in applicable regulations.
+The key barrier to progress highlighted in the Assessment related to municipal issues in Port Hope. In fact, it was noted that there were approximately 34 issues raised by the Port Hope Municipality since the Project started. These issues impacted the Port Hope project in particular. Indemnification requested by the municipality of Port Hope, for example, impeded progress of field investigations in 2012-13 for municipally owned, small-scale and industrial sites.
+The Assessment also examined the production of outputs for the two Transfer Payment Programs under the PHAI.
+Municipal Tax Revenue Loss Protection Program (MTRLP) Outputs:
+There were no claims, no payments made and no costs incurred under the MTRLP during the period assessed, which did not appear to be a concern for the municipalities.
+Property Value Protection Program (PVP) Outputs:
+During the assessment period, there were:
+76 claims processed;
+22 mediations held;
+14 arbitrations completed; and
+a total payment of $2.6M for 48 successful claims.
+During the period examined under the Assessment, the delivery of PVP was noted to have been impacted by the following factors:
+A high demand on the existing staff resources to address both the claim volume, demands on Compensation Officers to support PVP mediations and arbitrations, and support to Department of Justice lawyers during the PVP arbitration process.
+NRCan’s review of the PVP Program caused delays in the overall administration of the program (e.g., 17 claims were put in abeyance while the program was under review).
+Administrative costs for the PVP program were relatively high. More funds were spent in program administration (including the costs associated with legal support) than in payments to PVP recipients.
+Short term outcomes
+Project-related authorities are defined
+This outcome was
+achieved
+with the approval of the updated
+Project Charter and Tripartite Agreements
+for PHAI Phase 2. The Project Charter sets out the authorities, responsibilities, objectives and working principles to apply in delivering PHAI Phase 2. A further description of the assignment of authorities and responsibilities at a working level was provided in the Tripartite Project Delivery MOU.
+Stakeholder support and confidence in PHAI are maintained or improved
+This outcome is
+partially on track.
+Stakeholders’ support and confidence for the Initiative in Port Granby has been maintained while it has moderately declined in Port Hope. The results below are broken down by business community representatives, real estate representatives, municipalities, community members and internal partners.
+Business community representatives
+from both municipalities expressed satisfaction with their relationship with the PHAI MO. In Port Hope, they consider the PHAI MO as being very accessible, proactive and supportive in their efforts to create proper conditions for the participation of local businesses. However, the respondent from Port Hope Business Community expressed concern that stakeholders and the community support for the project has declined due to project delays. As an example, it was noted that attendance at tradeshows decreased between 2013 and 2014.
+Business community suggestions of areas in need of improvement included:
+Reinforcing the existing face-to-face contact which, in small communities, could be more efficient in building the credibility and support for the Project.
+Providing more updates on project progress and status of the procurement process.
+For real estate stakeholders
+, a working group between PHAI MO and the local real estate board was recently formed with the objective of improving existing relationships. For example, the board representative noted, that their ability to assist the public in real estate-related decision-making was limited as they felt they were not provided with sufficient notice before changes were made to the PVP program.
+From the municipalities’ perspective
+, the municipal government in Port Hope was noted as favoring an increasingly collaborative approach to expedite Project completion. A municipal government respondent noted that they plan to combine municipal and federal efforts with regard to communications for community engagement, including communications regarding the upcoming roll-out of the new PVP. The Municipality of Clarington (Port Granby), by contrast, indicated that they planned to restrict municipal government involvement in the roll-out of the new PVP program to maintain clarity in responsibilities and accountabilities. Municipal partners generally suggested that clarity of communications related to the PVP and the PHAI Governance was an area in need of improvement.
+From the community members’ perspective
+, results from the latest Annual Public Attitude Survey show that:
+In the Port Hope area, there was some decrease in the level of confidence “that the waste can be safely managed at the new long‐term waste management facility”, and “that the project can minimize the effects of dust and of traffic”. However, there was a stable confidence level (at 58%) that the PVP Program will compensate for decrease of property value.
+In the Port Granby area, there was a stable confidence level that “the waste can be managed safely at the future long-term waste management facility”, an increased confidence level that “the Port Granby Project can minimize the potential impacts of light pollution on residents as compared to the other potential impacts of traffic effects, noise, and dust”, and a stable but low confidence level (80% not confident) that “the PVP Program will compensate for a decrease in property value”.
+Public confidence results should be treated with some caution, however. While these results broadly reflect other lines of evidence, the PHAI was going through a period of rapid transition which may not have been widely understood in the community. In addition, information related to the PVP program redesign was not communicated during the Assessment phase as NRCan and program stakeholders were in the midst of assessing the impacts of the proposed redesign.
+From the perspective of the PHAI Management Office (MO)
+, relationships with PHAI regulatory and municipal stakeholders are positive, with the exception of the issues currently in negotiation and mediation under the dispute settlement mechanism on the Legal Agreement. These outstanding issues were rooted in the differing interpretations of the wording of the Legal Agreement and the Environmental Assessment Screening Reports. PHAI MO representatives also noted that community members were concerned with property values and that delays in rolling out the revised PVP program were creating frustration, particularly in the Port Granby community.
+Intermediate outcomes
+Sites are being safely remediated to applicable PHAI criteria
+This outcome is
+on track
+to be achieved. The available evidence indicated that the projects are conducted in compliance with the safety regulatory requirements. Few incidents or deficiencies were noted and these were addressed through remedial actions. It should be noted that the work was related to the water treatment plants and not the transportation of contaminated soil. The safety performance, therefore, still has not been documented under the conditions of actual remediation work.
+Project effects are being appropriately mitigated
+This outcome appears to be
+on track
+to be achieved as most of the complaints that had been received during the assessed period were either solved or in the process of being solved and lessons learned were applied to complaint resolution process. In addition, no major concerns were raised in the monitoring of the socio-economic effects that were identified at the environmental assessment. However, while some initial work had been undertaken (e.g., Water Treatment Plant) and mitigated as required, the major work under the project had not been initiated. As a result, the majority of project effects will not materialize until remediation work starts.
+Sub-Outcome: The PVP Program is appropriately mitigating the Project’s effects on real estate and property
+The assessment found that this Sub-Outcome is
+on track
+.
+The PVP Program continues to be relevant as a mechanism under the Legal Agreement to mitigate the effect of the project on property owners. In accordance with the Agreement, the program will continue for two years after the relevant PHAI waste facility in each municipality is deemed to be closed. The program continued to compensate residents during Phase II. However, the actual mechanism to establish the most appropriate means to quantify project effect was under review during the Assessment.
+Based on a review of the program led by NRCan and conducted by external consultants, opportunities to improve program administrative processes were identified. In addition, stakeholder feedback revealed concerns related to the transparency, clarity, and effectiveness of the program.
+The review indicated that by 2014 there had been
+no evidence
+of PHAI Project effects
+on the real estate market in the Port Hope Area. It also identified weaknesses in the simplicity, accuracy and consistency of application in the formula used to calculate PHAI project impacts on real estate values.
+The Assessment confirmed, through both the document review and interviews, that the lack of a clear definition of “project effect” is an inherent and ongoing challenge for the PVP Program. For example, if there is confirmation of contamination on a property (whether the contamination source is the Low Level Radioactive Waste or another source) this may have an impact on property market value. If confirmation of contamination is obtained through the project survey activities, this could be interpreted as an “effect” from the Project, regardless of whether the source of the contamination is linked to project-related contaminants.
+Assessing the achievement of the PVP program to date remains a challenge. The program was originally designed to address the impacts of a major public works project; however, no waste has actually been moved. The program, as a result of the Legal Agreement, has nevertheless continued to support property owners for the “effect” of PHAI. Further, the methodology to quantify “effect” remains challenging and is a source of confusion for all stakeholders, resulting in mediation and arbitration in some cases.
+In this context, the recognition of these issues and the decision made by NRCan and its partners to review and modify the existing PVP structure can be seen as significant and positive steps towards improving the program before transition.
+As of March 2015, NRCan was still in consultation to confirm that the new rules were in compliance with the Legal Agreement terms. At that time, the schedule of the program renewal considered by NRCan and the municipalities indicated August 2015 as the deadline to finalize supporting documents to confirm the revised rules and when they come into effect. The dates of the official announcement and the coming into effect of the revised program rules were not determined at the time of the Assessment.
+Federal liability is reduced
+The assessment
+cannot conclude
+on the achievement of Outcome #5. As reported in the Public Accounts, liabilities related to PHAI appear to have decreased. However, these numbers are based on costs to complete projects that have not been updated since 2011 due to the need to have estimates that reflect having all major contracts in place. These numbers were therefore not updated during the Assessment period and there may be remaining variability to the costs required for project completion (e.g., the resolution of Municipal issues, the scope of work related to the Small Scale Sites).
+Outstanding Municipality Concerns
+The Legal Agreement between Canada and the municipalities of Port Hope and Clarington states that “Canada agrees to perform all the work necessary and incidental to the achievement of the Project and the Elements thereof…” While the work required under the Agreement is generally defined in an appendix, the Agreement is not prescriptive in all respects and there remain a number of areas where differences in interpretation persist between the municipalities and Canada.
+An Agreement Monitoring Group - currently comprising representatives from the two municipalities, NRCan, and CNL - was established during Phase I to oversee the PHAI and ensure that it is planned and implemented in accordance with the requirements and obligations set out in the Legal Agreement.
+At the time of the Assessment, there were 11 outstanding issues related to Legal Agreement interpretation that were identified through the Agreement Monitoring Group. Four of these issues were in formal negotiation, and two more were in formal mediation through the dispute resolution process defined in the Agreement. NRCan program management representatives asserted that an agreement in principle has been reached with the Municipality of Port Hope regarding the resolution of the two issues in formal mediation, however, these outstanding issues collectively represent an ongoing risk to the project schedule and forecasted cost.
+Interviews with various NRCan, CNL and municipal representatives confirmed that NRCan’s participation in resolving these outstanding issues to the extent possible will support the ultimate success of the PHAI. There is a risk that NRCan’s transition away from participation in the AMG and issue resolution process will be negatively perceived by municipal representatives and will therefore require detailed consideration as part of the NRCan/AECL transition planning activity.
+Post-Transition to AECL and Future Considerations
+Challenges related to Program Schedule and Cost Forecast
+The original schedule for Phase 2 completion of the PHAI was 2021/22 (Q3). This projected completion date has since been updated to 2023/24 (Q1), a delay of 2 years from the original schedule.
+From a financial perspective, the current estimated cost at completion of Phase II (implementation) of the PHAI projects is $1.28 billion which is consistent with the initial Phase II forecast (2011) despite the project delays encountered to date. Factoring in Phase II program expenditures to date, NRCan reflects a $986 million liability (net present value of future costs) in its financial statements at March 31, 2015). This amount is subject to audit as part of NRCan’s annual financial statement audit.
+In 2014/15, NRCan engaged independent nuclear advisors to review the current status and various elements of the Port Hope and Port Granby projects. These reviews identified outstanding uncertainties that may impact the cost and schedule of the Port Hope project.
+Examples of these uncertainties included:
+Potential project schedule/timing implications of delays in NRCan finalizing agreement with the municipality on outstanding issues; and
+The recognition that additional work was required to assess the remediation needs of small scale sites (e.g. individual addresses in Port Hope). (As of early 2015, surveys had been completed on only 500 of an estimated 5,000 potential small scale sites.)
+With the transition of program responsibilities from NRCan to AECL, it is our understanding that CNL, under private-sector ownership will undertake a re-examination of the PHAI program delivery approach which may impact the program schedule or forecasted cost.
+Transition Planning
+The transition of PHAI program responsibilities from NRCan to AECL is expected to occur in September 2015. In order to assist in the transfer, NRCan will retain operational funding and will provide support to AECL for a 12 month period (September 2016). The expectation is that NRCan will provide support on an “as-needed” basis during the first year of new project management.
+Given the outstanding issues and considerations identified herein and to ensure a smooth transition of responsibilities, it will be important for NRCan to discharge its responsibilities in a proactive and organized manner in order to minimize the risk of any unintended negative consequences from the transfer (e.g. negative reaction from municipal representatives) and to support the successful achievement of PHAI objectives.
+While NRCan’s responsibility for coordinating the overall transfer of Department responsibilities to AECL is being led by a Restructuring Directorate, PHAI program management have commenced transition activities, including a definition of post-transfer roles and responsibilities for NRCan in support of AECL and joint NRCan/AECL communications with municipal representatives to discuss transition implications. NRCan program management acknowledge that the transfer of NRCan activities and responsibilities has yet to be committed to a formal transition plan.
+Given the complexity of the transfer and the potential negative consequences that might arise if the transition is not proactively managed, we recommend NRCan PHAI program management clearly articulate its role in supporting AECL through the 12 month period and develop a comprehensive plan to address the required transition activities leading up to the transfer date, and beyond as required. Areas of consideration in the transition plan to address the risks noted in the Assessment include:
+Engagement and communication planning and execution activities (e.g. municipal representative engagement and communication);
+Knowledge transfer and action planning in support of resolving outstanding municipal issues;
+Governance transition activities (e.g. Agreement Monitoring Group changes);
+Transition of grants programs (e.g. re-launch of the Property Value Protection Program);
+Transition of financial responsibilities (e.g. liability transfer to AECL, transfer of funding flow from NRCan to AECL); and
+Transition of administrative responsibilities (e.g. cut-off and transition of monthly billing processes).
+Recommendation
+NRCan program management should formally articulate the extent of its role in supporting AECL and formally develop a detailed plan to guide the various activities required to transfer NRCan’s responsibilities to AECL, with special attention on the communication of changes to the PVP Program.
+Management Response and Action Plan
+Management agrees.
+Responsibility for the PHAI was successfully transferred from NRCan to AECL on September 13, 2015.
+The extent of NRCan’s role in supporting AECL, post-transfer, was formally articulated in a PHAI Transition Plan executed between NRCan and AECL on September 30, 2015.
+NRCan program management activities leading up to the transfer will also be summarized and reviewed to ensure that all pre-transfer NRCan responsibilities have been appropriately addressed.
+Position responsible
+: ADM Energy Sector
+Timing
+: April 2016
+Appendix A – Assessment Criteria
+This appendix details the assessment criteria for the project.
+Appendix B – Summary Status of PHAI Outputs and Outcomes
+Legend:
+i Milestone due during period of assessment
+ii Milestone completed as per schedule
+iii Milestone completed with delays
+iv Achieved via AECL Restructure
+v Milestone due but delayed
